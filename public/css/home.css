@@ -206,9 +206,12 @@ margin:20px 0 0 0;
     transition:0.3s
 }
 .left .content .social a span:hover{
-    b
+    
     background:#d6d8d9;
 }
-@media(max-width:)
-
-
+@media(max-width:700px)
+{
+    .right{
+        width:50%
+    }
+}
